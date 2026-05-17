@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <!-- Title shown in browser tab -->
+    <title>Welcome to Interactive Quiz App - code with zubair</title>
+
+    <!-- Linking external CSS file -->
+    <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+
+    <!-- Home Page -->
+    <div class="home" id="home-page">
+
+        <!-- Main heading -->
+        <h1>Welcome to Interactive Quiz App</h1>
+
+        <!-- Small description -->
+        <p>Ready to test your knowledge? Start the quiz now!</p>
+
+        <!-- Start quiz button -->
+        <button id="start-btn">Start Quiz</button>
+
+    </div>
+
+    <!-- Main Quiz App Container -->
+    <div class="app" id="quiz-page" style="display: none;">
+
+        <!-- Quiz heading -->
+        <h1>Interactive Quiz</h1>
+
+        <!-- Quiz section -->
+        <div class="quiz">
+
+            <!-- Question will be displayed here dynamically -->
+            <h2 id="question">Question goes here</h2>
+
+            <!-- Container for answer buttons -->
+            <div id="answer-buttons">
+
+                <!-- Answer option 1 -->
+                <button class="btn">Answer 1</button>
+
+                <!-- Answer option 2 -->
+                <button class="btn">Answer 2</button>
+
+                <!-- Answer option 3 -->
+                <button class="btn">Answer 3</button>
+
+                <!-- Answer option 4 -->
+                <button class="btn">Answer 4</button>
+
+            </div>
+
+            <!-- Button to move to next question -->
+            <button id="next-btn">Next</button>
+
+        </div>
+    </div>
+
+    <!-- Linking external JavaScript file -->
+    <script src="script.js"></script>
+
+</body>
+</html>
