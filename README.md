@@ -33,3 +33,8 @@ This project is especially useful for beginners who want to improve their unders
 The application can also be enhanced in the future by adding advanced features such as timers, difficulty levels, categories, animations, sound effects, leaderboards, and database integration. These improvements can make the project more advanced and suitable for educational platforms or online quiz systems.
 
 Overall, Interactive Quiz App is a simple, creative, and educational project that demonstrates the fundamentals of web development while providing users with an enjoyable and interactive learning experience. The project is easy to use, visually appealing, and a great example of how HTML, CSS, and JavaScript can be combined to build dynamic and responsive web applications.
+
+##OUTPUT:
+![img](https://github.com/user-attachments/assets/c11c3d83-eb54-4f84-aded-e41a9f450c2a)
+
+
